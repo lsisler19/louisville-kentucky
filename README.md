@@ -5,7 +5,7 @@
 
 Louisville, Kentucky 
 ![Caption of map](louisville.jpg)     
-*Caption of Map*
+Shaded relief of above-ground features and vegetation
 
 [Link to high-resolution version](louisville.pdf)     
 
